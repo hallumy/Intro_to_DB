@@ -2,6 +2,9 @@
 
 CREATE DATABASE alx_book_store;
 
+-- Use the created database
+USE alx_book_store;
+
 -- Create the table 'book'
 
 CREATE TABLE Books (
